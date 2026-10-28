@@ -5,36 +5,39 @@
 
 ### Full Stack Software Engineer
 
-Desenvolvimento de produtos digitais, APIs
-e soluções escaláveis.
+Desenvolvendo produtos digitais, APIs e soluções escaláveis.
+
+<a href="https://fellipemtx.vercel.app">
+  <img src="https://img.shields.io/badge/Portfólio-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+</a>
+<a href="https://www.linkedin.com/in/fellipemtx/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
 ---
 
-## 🛠 Tecnologias
+### 🚀 Sobre mim
+
+Engenheiro de Software com experiência em desenvolvimento
+Full Stack, qualidade de software e liderança técnica.
+
+Focado em transformar problemas reais em produtos
+digitais eficientes e escaláveis.
+
+### 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,prisma,docker,tailwind,git,github&perline=6" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres" alt="Tecnologias principais" />
+</p>
 
-</div>
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FellipeMTX&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeMTX&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 📈 Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FellipeMTX&theme=tokyo-night&hide_border=true" width="100%" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prisma,tailwind,docker,git,github,cloudflare" alt="Ferramentas" />
+  <img src="https://raw.githubusercontent.com/zrosenbauer/art/main/art/skillicons/claude_code/claude_code.png" width="48" height="48" alt="Claude Code" />
+</p>
 
 </div>
 
@@ -42,6 +45,6 @@ e soluções escaláveis.
 
 <div align="center">
 
-[Meu Portfólio](https://fellipemtx.vercel.app)
+### Sempre construindo, aprendendo e evoluindo. 🚀
 
 </div>
