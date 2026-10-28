@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**FellipeMTX/FellipeMTX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Olá, eu sou o Fellipe! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Full Stack Software Engineer
+
+Desenvolvimento de produtos digitais, APIs
+e soluções escaláveis.
+
+</div>
+
+---
+
+## 🛠 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,prisma,docker,tailwind,git,github&perline=6" />
+
+</div>
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=FellipeMTX&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeMTX&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 📈 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FellipeMTX&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+[Meu Portfólio](https://fellipemtx.vercel.app)
+
+</div>
